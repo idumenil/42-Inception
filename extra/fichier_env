@@ -1,0 +1,15 @@
+WORDPRESS_USER=wpuser
+WORDPRESS_MDP=wpmdp
+WORDPRESS_DB=wp_db
+
+DB_USER=dbuser
+DB_MDP=dbmdp
+DB_MDP_ROOT=dbmdproot
+
+WP_USER=irene
+WP_MDP=irenemdp
+WP_MAIL=irene.dumenil@yahoo.fr
+
+WP_USER=irenebis
+WP_MDP1=irenebismdp
+WP_MAIL1=irene.dumenil@gmail.com
